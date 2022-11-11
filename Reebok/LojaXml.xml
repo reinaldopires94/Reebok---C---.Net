@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lojas>
+	<loja>
+		<modelo>Freestyle Hi</modelo>
+		<link>https://www.reebok.com/pt/freestyle-hi/2240.html</link>
+		<peso>250 g </peso>
+		<preco>95€</preco>
+		<genero>Feminino</genero>
+		<fotos>imagens/foto1.jpg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>Club C 85 Shoes</modelo>
+		<link>https://www.reebok.com/pt/club-c-85-shoes/HP4320.html</link>
+		<peso>400 g</peso>
+		<preco>90€</preco>
+		<genero>Masculino</genero>
+		<fotos>imagens/foto2.jpg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>Club C 85 Vintage Shoes</modelo>
+		<link>https://www.reebok.com/pt/club-c-85-vintage-shoes/GX3681.html</link>
+		<peso>350 g</peso>
+		<preco>110€</preco>
+		<genero>Unisexo</genero>
+		<fotos>imagens/foto3.jpg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>Reebok Nano X2 Shoes</modelo>
+		<link>https://www.reebok.com/pt/reebok-nano-x2-shoes/GX9914.html</link>
+		<peso>375 g</peso>
+		<preco>130€</preco>
+		<genero>Feminino</genero>
+		<fotos>imagens/foto4.jpeg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>Reebok Royal Prime 2 Shoes</modelo>
+		<link>https://www.reebok.com/pt/reebok-royal-prime-2-shoes/GW2605.html</link>
+		<peso>230 g</peso>
+		<preco>30€</preco>
+		<genero>Masculino</genero>
+		<fotos>imagens/foto5.jpg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>NFX Trainers</modelo>
+		<link>https://www.reebok.com/pt/nfx-trainers/GY9774.html</link>
+		<peso>175 g</peso>
+		<preco>65€</preco>
+		<genero>Unisexo</genero>
+		<fotos>imagens/foto6.jpg</fotos>
+	</loja>
+
+	<loja>
+		<modelo>Reebok Royal Glide RPL</modelo>
+		<link>https://www.reebok.com/pt/reebok-royal-glide-rpl/BS5814.html</link>
+		<peso>300 g</peso>
+		<preco>65€</preco>
+		<genero>Feminino</genero>
+		<fotos>imagens/foto7.jpg</fotos>
+	</loja>
+
+</lojas>

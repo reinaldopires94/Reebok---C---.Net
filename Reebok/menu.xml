@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<menu>
+	<pagina num="1">
+		<nome>App</nome>
+		<link>https://localhost:44316/App.aspx</link>
+	</pagina>
+
+	<pagina num="2">
+		<nome>Inscrição</nome>
+		<link>https://localhost:44316/Inscricao.aspx</link>
+	</pagina>
+
+
+
+	<pagina num="3">
+		<nome>Dados</nome>
+		<link>https://localhost:44316/Dados.aspx</link>
+	</pagina>
+
+
+
+	<pagina num="4">
+		<nome>Loja</nome>
+		<link>https://localhost:44316/Loja.aspx</link>
+	</pagina>
+
+
+	<pagina num="4">
+		<nome>Atec</nome>
+		<link>https://localhost:44316/Loja.aspx</link>
+	</pagina>
+
+
+
+
+
+</menu>
